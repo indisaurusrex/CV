@@ -7,21 +7,32 @@ This years decision to pursue a career change into computer programming came fro
 ## Skills
 #### Problem solving
 
-Throughout Makers we were encouraged to learn through building and designing apps. That's meant constant problem solving. From considering how to log a perfect game in the [bowling challenge](https://github.com/indisaurusrex/bowling-challenge) correctly, to working out how on Earth to use Rails (the first framework we were introduced to), how to attach a database and what happens when you use the `scaffold` command in [Acebook](https://github.com/jamesAforster/acebook-JIMJI). And even how to work with a team when things aren't going to plan - which I touched upon in [my blog on what I learnt about myself at Makers](https://medium.com/swlh/the-top-3-things-i-learnt-about-myself-at-coding-bootcamp-8988a39102e0?source=friends_link&sk=142ceb1479fe54b56bd29e8a7f197aef). 
+Throughout Makers we're encouraged to learn through building and designing apps. Which means constant problem solving. From considering how to log a perfect game in the [bowling challenge](https://github.com/indisaurusrex/bowling-challenge) correctly, to working out how on earth to use Rails (the first framework we were introduced to), how to attach a database and what happens when you use the `scaffold` command in [Acebook](https://github.com/jamesAforster/acebook-JIMJI). And even how to work with a team when things aren't going to plan - which I touched upon in [my blog on what I learnt about myself at Makers](https://medium.com/swlh/the-top-3-things-i-learnt-about-myself-at-coding-bootcamp-8988a39102e0?source=friends_link&sk=142ceb1479fe54b56bd29e8a7f197aef). 
 
-In OVO, leading a multi-departmental team as part of a multi-departmental team  
-- Achievements
-- Evidence
+At OVO, I worked with UX designers, developers and external partners to fix our broken customer communications. I led a multi-departmental mini-project team to:
+- identify and redesign problematic logic behind automated sends
+- discover gaps in the customer journey messages, then fill them
+- make messages comprehensible to a wider audience
+
+The project brought a 15% reduction in comms-related complaints, and cut 1/3 off printing costs, helping with company goals and savings. 
+
+
 
 #### Communication
 
-Customer services early work experience made communication skills essential in a range of situations, especially negative ones. Project work at OVO brought the need for confidence discussing news with a range of heirarchical job titled people (internal and external). Copy writing and editing for customer communications honed empathy based communication. 
+At OVO I had became confident interacting with all levels of stakeholders up to the CEO. I also learnt the value of adapting your method of delivery, and tone across different audiences from busy director, to customer, to customer services team.
 
-Seek feedback regularly and listen well in a team situation - skills expanded upon at Makers.
+Throughout my career I've worked in customer facing roles. Dealing with angry customers face to face at Pearl or over the phone at Groupon, I'm now well practiced in dispute resolution and managing expectations effectively. 
 
-#### Organised
+During Makers, regularly giving and receiving constructive feedback has been an invaluable new communication tool. We also got to practice pair programming every afternoon for 2+ months. 
 
-Task oriented personality, keep things moving by staying on top of the goals and tasks we have. Start early and finish on time with extra features added. Track progress. 
+#### Organision
+
+My task-oriented nature kept me afloat while starting a business solo in 2018. Documenting and learning was important for a scalable model, while attending self-employment classes, researching eco-friendly practices and fulfilling orders. 
+
+Managing an ongoing workload aside part time agile project work at OVO I learnt kanban boards, the pomodoro technique and how to prioritise my workload effectively around constantly changing needs. 
+
+I've become adept at keeping others on track as well, which was complimented by a teammate in the [Acebook](https://github.com/jamesAforster/acebook-JIMJI) project at Makers.  
 
 ## Projects and Code
 | Project name | Description | Technologies | Why its special |
@@ -49,12 +60,9 @@ Learning industry standard best practices of object oriented design through buil
 
 #### Liverpool John Moores University (September 2008 to June 2011)
 
-- Computer Animation & Visualization BSc, specialising in desktop augmented reality
-- 2:1 
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Computer Animation & Visualization BSc, 2:1
+- Specialised in desktop augmented reality
+- Worked in Visual Basic, C++, 3D Studio Max, Maya, Macromedia & Adobe Flash including ActionScript
 
 ## Experience
 
