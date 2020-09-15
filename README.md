@@ -1,4 +1,5 @@
 ## India Rex
+[LinkedIn](https://www.linkedin.com/in/india-rex-aa56951b6/) | [Blog on Medium](https://medium.com/@indisaurusrex)
 
 Enthusiasm and colourful positivity are what people immediately encounter on meeting me, but I'm also about pragmatic problem solving and keeping the team moving when we hit obstacles on our path to delivery. Right now I'm a Junior Full Stack Developer looking for my first role in industry. One thing that's co-most-important to me is variety, and the other is the space to learn and progress. I'm super keen to keep building on the skills I've learnt so far in business strategy and in coding. 
 
@@ -66,7 +67,7 @@ Learning industry standard best practices of object oriented design through buil
 
 ## Experience
 
-**FaceFace Clothing** (start_date to end_date)    
+**FaceFace Clothing** (June 2018 to January 2020)    
 *Founder*  
 - Started a sustainable fashion brand from scratch, working alone to create custom, colourful pieces to deadline, and research sustainable and eco-friendly practices. Showing motivation, curiosity, autonomy and determination.
 
