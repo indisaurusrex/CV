@@ -24,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Projects and Code
 | Project name | Description | Technologies | Why its special |
----------------------------------------------------------------
+| --- | --- | --- | --- |
 | (Theresa)[https://github.com/theresadreamteam/theresa] | A walking app to store and find walks according to how far you want to travel | APIs, Rails, React, CircleCI, Heroku | Group final project for Makers, most complete app with largest range of skills used. |
 | (Bank tech test)[https://github.com/indisaurusrex/bank-tech-test] | Creating a bank account using the terminal as UI | Ruby, RSpec | Cleanest code I've written alone |
 | (Notes app)[https://github.com/samlandman/notesapp] | An app to store and view your notes | JavaScript, HTML, CSS | Wrote our own testing framework, website is lots of fun to use |
