@@ -1,6 +1,6 @@
 ## India Rex
 
-Enthusiasm and colourful positivity are things I can't contain, but I'm also about pragmatic problem solving and keeping the team moving when we hit obstacles on our path to delivery. Right now I'm a Junior Full Stack Developer looking for my first role in industry. One thing that's co-most-important to me is variety, and the other is the space to learn and progress. I'm super keen to keep building on the skills I've learnt so far in business strategy and in coding. 
+Enthusiasm and colourful positivity are what people immediately encounter on meeting me, but I'm also about pragmatic problem solving and keeping the team moving when we hit obstacles on our path to delivery. Right now I'm a Junior Full Stack Developer looking for my first role in industry. One thing that's co-most-important to me is variety, and the other is the space to learn and progress. I'm super keen to keep building on the skills I've learnt so far in business strategy and in coding. 
 
 This years decision to pursue a career change into computer programming came from wanting to work collaboratively and in teams, have an impact on the world, and learn constantly. My creative, customer facing and administrative background provides an excellent foundation of energy, enthusiasm, efficiency and empathetic problem solving. 
 
