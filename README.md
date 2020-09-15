@@ -1,26 +1,25 @@
 ## India Rex
 
-I’m a colourful, enthusiastic and pragmatic Full Stack Junior Developer. Looking for a dynamic role where I can build on my business strategy and product management exposure and further develop my skills in programming best practices. 
+Enthusiasm and colourful positivity are things I can't contain, but I'm also about pragmatic problem solving and keeping the team moving when we hit obstacles on our path to delivery. Right now I'm a Junior Full Stack Developer looking for my first role in industry. I'm super keen to keep building on the skills I've learnt so far in business and in coding. One thing that's co-most-important to me is variety, and the other is the space to learn and progress. 
 
-Deciding to change career came from wanting to work collaboratively and in teams, have an impact on the world, and learn constantly. My creative, customer facing and administrative background provides an excellent foundation of energy, enthusiasm, efficiency and empathetic problem solving. 
+This years decision to pursue a career change into computer programming came from wanting to work collaboratively and in teams, have an impact on the world, and learn constantly. My creative, customer facing and administrative background provides an excellent foundation of energy, enthusiasm, efficiency and empathetic problem solving. 
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
+These skills are the basics, to be improved upon over this week. 
 #### Problem solving
 - Experience
 - Achievements
 - Evidence
 
-#### 
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Customer services early work experience made communication skills essential in a range of situations, especially negative ones. Project work at OVO brought the need for confidence discussing news with a range of heirarchical job titled people (internal and external). Copy writing and editing for customer communications honed empathy based communication. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Seek feedback regularly and listen well in a team situation - skills expanded upon at Makers.
+
+#### Organised
+
+Task oriented personality, keep things moving by staying on top of the goals and tasks we have. Start early and finish on time with extra features added. Track progress. 
 
 ## Projects and Code
 | Project name | Description | Technologies | Why its special |
