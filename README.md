@@ -61,9 +61,13 @@ Learning industry standard best practices of object oriented design through buil
 
 #### Liverpool John Moores University (September 2008 to June 2011)
 
-- Computer Animation & Visualization BSc, 2:1
-- Specialised in desktop augmented reality
-- Worked in Visual Basic, C++, 3D Studio Max, Maya, Macromedia & Adobe Flash including ActionScript
+Computer Animation & Visualisation BSc, 2:1. A computer sciences degree specialising in animation. My final project was in desktop augmented reality. I built an educational program about our solar system, with the pièce de résistance of 2 animated models of the solar system and the separate planets coming out of cardboard markers when they were in view of the webcam. 
+Key course learning points:
+- Object Oriented Systems & Data Structures
+- Computer Architecture & Operating Systems
+- 3D & 2D modelling & animation
+- Web design, User Interface design
+- Intro to programming in Visual Basic, C++, Python, Actionscript, HTML, CSS 
 
 ## Experience
 
