@@ -85,8 +85,7 @@ Key course learning points:
 
 ## Hobbies
 
-* Sewing
-* Making awesome things, mainly involving lights, hopefully soon to involve mini robots
-* Travelling
-* Running and climbing
-* Blogging
+* Travelling: Locally and worldwide. Exploring and adventures in the mountains or getting to know the locals are the best bits of travelling for me. I’m a big fan of hiking. Working on my card games too.
+* Dressmaking: I’ve been sewing for quite a while now and love having a wardrobe of many handmade clothes and costumes. It’s great getting others involved too, most recently I ran a tie-dye afternoon for my housemates and neighbours which was ace. 
+* Making other things: From practical things like stairs to fun things like a 2m paper & wire light up octopus; I love making things. At the moment I’m researching how to make a headdress with dancing robots who react to the audio around them. 
+* Climbing: Last year I started bouldering on an indoor wall. Next summer I aim to climb some real rocks outdoors, ideally in some warm locations!
