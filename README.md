@@ -1,9 +1,13 @@
 ## India Rex
 [LinkedIn](https://www.linkedin.com/in/india-rex-aa56951b6/) | [Blog on Medium](https://medium.com/@indisaurusrex)
 
-Enthusiasm and colourful positivity are what people immediately encounter when meeting me, but I'm also about pragmatic problem solving and keeping the team moving when we hit obstacles on our path to delivery. Right now I'm a Junior Full Stack Developer looking for my first role in industry. One thing that's important to me is variety, and another is the space to learn and progress. I'm super keen to keep building on the skills I've learnt so far in business strategy and in coding. 
+Hello! I’m India. Having recently graduated from the Makers Software Development Bootcamp, I’m looking for a role where I can solve problems, build awesome things and continue to learn and grow.
 
-This years decision to pursue a career change into computer programming came from wanting to work collaboratively and in teams, have an impact on the world, and learn constantly. My creative, customer facing and administrative background provides an excellent foundation of energy, enthusiasm, efficiency and empathetic problem solving. 
+Before Makers, I started my own fashion label. It was a lesson in constantly working outside of my comfort zone, learning and adapting extremely quickly and being determined to overcome setbacks to reach goals. Being highly self-motivated it was an exciting challenge and incredibly eye-opening. 
+
+While working in marketing I learnt the value of strict time management to manage multiple workloads. Communication became the top priority to ensure happy stakeholders and teams working smoothly together. Although now, having completed several emotional intelligence workshops at Makers, I feel even better prepared with improved communication skills, including empathy and giving receiving feedback of all types.
+
+With more than 10 years of design and 4 years of customer marketing experience, I’m obsessed with innovating new ways of creating amazing solutions that are ridiculously useful and effective. In the future I’d like to use these skills to mentor other women in tech.   
 
 ## Projects and Code
 | Project name | Description | Technologies | Why its special |
@@ -44,7 +48,7 @@ I've become adept at keeping others on track as well, which was complimented by 
 
 ## Experience
 
-**FaceFace Clothing** (June 2018 to January 2020)    
+**FaceFace Clothing** (July 2018 to February 2020)    
 *Founder*  
 - Started a sustainable fashion brand from scratch, working alone to create custom, colourful pieces to deadline, and research sustainable and eco-friendly practices. Showing motivation, curiosity, autonomy and determination.
 
@@ -52,7 +56,7 @@ I've become adept at keeping others on track as well, which was complimented by 
 **OVO Energy** (June 2014 to June 2018)   
 *Marketing Manager*  
 - Worked closely with UX designer to design a new app and improve customer experience on existing app, providing copy for messages, testing flow, ensuring easy to use experience for a mixed ability audience.
-- Became the subject matter expert for ‘PAYG’ customer processes and communications, going beyond the standard marketing role to provide advice to stakeholders. 
+- Became the subject matter expert for Pay As You Go (PAYG) customer processes and communications, going beyond the standard marketing role to provide advice to stakeholders. 
 - Worked in agile project teams to improve customer-facing processes, and led my own interdepartmental teams to upgrade communications. Combined forces with developers to fix broken logic and uncover underlying issues of rogue comms. Appropriate stakeholder management and pragmatic problem solving used to deliver results in tight timeframes. Reduced comms based complaints by 15%, and saved ⅓ on printing costs in the process. 
 - Through consistently impressive review results was 1 of 15 people across the company awarded a place on the 8-month training course to improve career opportunities. 
 - Collaborated with other marketing managers to design and deliver informative campaigns.
